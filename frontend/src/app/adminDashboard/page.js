@@ -120,4 +120,4 @@ const AdminPanel = () => {
   );
 };
 
-export default AdminPa
+export default AdminPanel;
